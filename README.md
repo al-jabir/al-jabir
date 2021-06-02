@@ -1,6 +1,6 @@
 #  Hi, I'm Al Jabir
 
-[Github](https://github.com/al-jabir)
+[Github](https://github.com/al-jabir) [Facebook](https://www.facebook.com/aljabirceo)
 
 ## ABOUT ME
 
