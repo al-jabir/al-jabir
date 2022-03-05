@@ -1,7 +1,6 @@
 ### Hi there 👋, I.m AL JABIR
 #### I will be Programmer or Software Developer
-![I will be Programmer or Software Developer](https://images.pexels.com/photos/270557/pexels-photo-270557.jpeg?cs=srgb&dl=pexels-pixabay-270557.jpg&fm=jpg)
-
+![I will be Programmer or Software Developer]
 - 🌱 I’m currently learning CSE Fundamentals With Phitron 
 - 🤔 I’m looking for help with anything 
 - ⚡ Fun fact: Coder AJ 
