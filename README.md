@@ -1,4 +1,4 @@
-### Hi there 👋, I.m AL JABIR
+### Hi there 👋, I'm AL JABIR
 #### I will be Programmer or Software Developer
 ![I will be Programmer or Software Developer]
 - 🌱 I’m currently learning CSE Fundamentals With Phitron 
