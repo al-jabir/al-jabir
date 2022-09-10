@@ -2,7 +2,7 @@
 #### I will be Programmer or Software Developer
 
 
-- 🌱 I’m currently learning Web or Software Developer
+- 🌱 I’m currently learning ReactJS
 - 🤔 I’m looking for help with anything 
 - ⚡ Fun fact: Coder AJ 
 
