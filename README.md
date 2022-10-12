@@ -2,8 +2,8 @@
 #### I will be Programmer or Software Developer
 
 
-- 🌱 I’m currently learning ReactJS, NextJS, NodeJS, Pyhton and Java
-- 🤔 I’m looking for help with anything 
+- 🌱 I’m currently learning ReactJS, NextJS, NodeJS
+- 🤔 I’m looking for help with Frontend Developer
 - ⚡ Fun fact: Coder AJ 
 
 
