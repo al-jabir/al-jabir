@@ -46,5 +46,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=al-jabir&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=al-jabir)  
-
-![Profile views](https://gpvc.arturio.dev/al-jabir)  
