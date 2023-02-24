@@ -1,0 +1,2 @@
+let str = 'I will be good programmers';
+console.log(str.length);
