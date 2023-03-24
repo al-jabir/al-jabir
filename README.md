@@ -1,11 +1,13 @@
 <h1 align = 'center'>Assalamu Alaikum</h1>
 <p align="center"><img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="100%" height = "500"> </p>
 
+
+
+### I'm AL JABIR
 #### I will be Programmer or Software Developer
 
 
 - 🌱 I’m currently learning ReactJS, NextJS, NodeJS
-- 👨‍💻 All of my projects are available at [https://jabir.netlify.app/](https://jabir.netlify.app/)
 - 🤔 I’m looking for help with Frontend Developer
 - ⚡ Fun fact: Coder AJ 
 
@@ -39,6 +41,8 @@
 <br/>
 <br/>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=al-jabir&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-jabir&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-jabir)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=al-jabir&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=al-jabir)  
