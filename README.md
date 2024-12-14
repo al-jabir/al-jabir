@@ -1,7 +1,4 @@
 <h1 align = 'center'>Assalamu Alaikum</h1>
-<p align="center"><img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="100%" height = "500"> </p>
-
-
 
 ### I'm AL JABIR
 #### I will be Programmer or Software Developer
