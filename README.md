@@ -56,48 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 PROZEN – Business Website</h3>
-      <p>A premium business & consulting template with professional UI and ThemeForest-level design.</p>
-      <b>🔗 Live:</b> <a href="https://prozen.vercel.app/">prozen.vercel.app</a><br/>
-      <b>🛒 Template:</b> <a href="https://themeforest.net/item/prozen-business-consulting-html-template/60481864">ThemeForest Link</a><br/>
-      <!-- Optional Screenshot -->
-      ![PROZEN Screenshot](https://via.placeholder.com/250x150.png?text=PROZEN+Screenshot)
-    </td>
-    <td width="50%">
-      <h3>🎬 MadhuTube – AI YouTube Clone</h3>
-      <p>YouTube-inspired UI powered by AI-assisted development (70% AI). Clean and fast.</p>
-      <b>📦 Repo:</b> <a href="https://github.com/al-jabir/madhutube-frontend">GitHub Repo</a><br/>
-      <!-- Optional Screenshot -->
-      ![MadhuTube Screenshot](https://via.placeholder.com/250x150.png?text=MadhuTube+Screenshot)
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🎮 3D Gaming UI</h3>
-      <p>Interactive 3D-inspired gaming homepage with animations and smooth UI transitions.</p>
-      <b>📦 Repo:</b> <a href="https://github.com/al-jabir/3d-gaming">GitHub Repo</a><br/>
-      <!-- Optional Screenshot -->
-      ![3D Gaming Screenshot](https://via.placeholder.com/250x150.png?text=3D+Gaming+Screenshot)
-    </td>
-    <td width="50%">
-      <h3>🧑‍💻 Techure – IT Agency</h3>
-      <p>Modern agency template with clean layout, smooth scrolling, and animations.</p>
-      <b>🔗 Live:</b> <a href="https://techure.netlify.app/">techure.netlify.app</a><br/>
-      <b>📦 Repo:</b> <a href="https://github.com/al-jabir/techure">GitHub Repo</a><br/>
-      <!-- Optional Screenshot -->
-      ![Techure Screenshot](https://via.placeholder.com/250x150.png?text=Techure+Screenshot)
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats (Fully Working)
 
 <p align="center">
