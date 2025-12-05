@@ -33,8 +33,7 @@
 ✔ Bootstrap / SCSS Architecture  
 ✔ GSAP Animations  
 ✔ Clean Reusable Components  
-✔ JavaScript DOM & Logic  
-✔ React Hooks & Components  
+✔ JavaScript DOM & Logic
 
 ---
 
