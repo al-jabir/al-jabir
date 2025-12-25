@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 💡 Passionate **Frontend Developer**  
-🏢 Working as **Junior Frontend Developer at PixelOne**  
+🏢 Working as **Junior Frontend Developer at ReacThemes**  
 🎨 Expert in **Figma → Pixel Perfect HTML/CSS**  
 ⚛ Learning **React & Next.js**  
 🧩 Love building **smooth animations (GSAP, AOS)**  
