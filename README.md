@@ -1,7 +1,7 @@
 <h1 align="center">👋 Assalamu Alaikum, I'm AL JABIR</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Junior+Frontend+Developer+at+PixelOne;React+%26+NextJS+Learner;Pixel+Perfect+UI+Developer;Passionate+Web+Designer;Known+as+Coder+AJ" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Junior+Frontend+Developer+at+ReacThemes;React+%26+NextJS+Learner;Pixel+Perfect+UI+Developer;Passionate+Web+Designer;Known+as+Coder+AJ" />
 </p>
 
 <h3 align="center">Frontend Developer | Web Designer | Aspiring Software Developer</h3>
